@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  AutoSort1.cpp
+  communication.cpp
+  node.cpp
+  randArr.cpp
+  正在生成代码...
+  AutoSort1.vcxproj -> D:\Users\rjs\VsWorkplace\AutoSort1\x64\Debug\AutoSort1.exe
